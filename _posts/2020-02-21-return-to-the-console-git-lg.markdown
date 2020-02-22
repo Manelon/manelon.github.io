@@ -5,7 +5,8 @@ date:   2020-02-21 23:47:41 +0000
 categories: git
 tags: [git, nocompila]
 ---
-Una cosa que hecho en falta cada vez que instalo git en una máquina nueva es ver las ramas de los proyectos de una manera cómoda y entendible.  
+Una cosa que hecho en falta cada vez que instalo git en una máquina nueva es ver las ramas de los proyectos de una manera cómoda y entendible.
+
 Por defecto si sobre un repositoio le haces git log verás una cosa como esta
 ``` shell
 $ git log
