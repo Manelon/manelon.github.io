@@ -8,7 +8,7 @@ tags: [jekyll, github pages]
 Este es mi primer post en este blog. Todavía no sé qué voy a hacer aquí.
 
 Lo que sé es que quería empezar a probar Jekyll, así que el otro día instalé [Jekyll y completé tutorial oficial](https://jekyllrb.com/docs/step-by-step/01-setup/). 
-Al dia siguiente estaba convencido que podría publicar la primera version de misitio web usando github pages y ¡¡¡¡Sorpresa!!!! no funciona.
+Al dia siguiente estaba convencido que podría publicar la primera version de mí sitio web usando github pages y ¡¡¡¡Sorpresa!!!! no funciona.
 
 La última version de Jekyll al escribir estas líneas es la 4.0.0, pero la version soportada por Github es la 3.8.5, asi que antes de empezar nada es mejor [comprobar las versiones soportadas por github](https://pages.github.com/versions/)
 
