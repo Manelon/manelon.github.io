@@ -41,3 +41,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#Blazor uses the directores _framework and _bin to
+#By default Jekyll ignore the forders staring by underscore I need to add the directory names in the include
+include:
+  - _framework
+  - _bin
